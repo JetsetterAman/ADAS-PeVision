@@ -12,7 +12,7 @@ The system is trained on a custom dataset containing the following 9 classes:
 `Car`, `Pedestrian`, `Van`, `Cyclist`, `Truck`, `Misc`, `Tram`, `Person_sitting`, `DontCare`
 
 ### 📊 Dataset Distribution and Annotations
-![Dataset Analysis](./30aae1ce-799e-4991-a494-04882182dc94.jpg)
+![Dataset Analysis](labels.jpg)
 
 This plot shows class distribution, bounding box sizes, and spatial position density. It highlights a class imbalance, with significantly more `Car` and `Person_sitting` instances.
 
