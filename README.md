@@ -17,7 +17,7 @@ The system is trained on a custom dataset containing the following 9 classes:
 This plot shows class distribution, bounding box sizes, and spatial position density. It highlights a class imbalance, with significantly more `Car` and `Person_sitting` instances.
 
 ## 📈 Model Evaluation
-![Confusion Matrix](./2c68fd24-443c-4be6-8020-6aaadfbf075d.png)
+![Confusion Matrix](confusion_matrix_normalized.png)
 
 The confusion matrix shows strong detection performance for common classes like `Car`, but reveals misclassifications between similar classes such as `Pedestrian`, `Van`, and `Cyclist`.
 
